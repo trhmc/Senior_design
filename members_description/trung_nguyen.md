@@ -7,9 +7,9 @@
 ## **CO-OP WORK EXPERIENCE**
 
 *1. Co-op Software Engineer at FOX Sports (May-Aug 2022, Feb-Aug 2023)*
-- Worked on the the Android Video Player team, responsible for maintaining and developing features for the video player used by our apps available on the Android platform (mobile and TV).
+- Worked on the Android Video Player team, responsible for maintaining and developing features for the video player used by our apps available on the Android platform (mobile and TV).
 - Was tasked with handling tickets and various bug fixes as part of biweekly sprints.
-- Employed Java and Kotlin through Android Studio to bug fix and keep track of analytic sent to other platforms used by the organization.
+- Employed Java and Kotlin through Android Studio to bug fix and keep track of analytics sent to other platforms used by the organization.
 - Gave demos to the development/client teams on implemented fixes and features.
 
 *2. Teacher/Research and Development at International STEM Association (May-Aug 2020)*
@@ -25,5 +25,5 @@ identify its content, and send that object to its designated area.
 - Developing testing environments to make sure that the robot met the required objectives.
 
 ## **PROJECT SOUGHT**
-- Developing apps/webapps that fulfills a niche that is often neglected and/or underultilized.
+- Developing apps/web-apps that fulfill a niche that is often neglected and/or underutilized.
 - Open to working with cybersecurity and AI related projects.
