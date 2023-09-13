@@ -1,1 +1,2 @@
 # User Stories
+As a fitness app user, I want to have a variety of workout options that is personalized to my preference, so that I can choose a workout with any setup I have. I also want layout that is interactive, so that I will be consistent in working.
