@@ -1,6 +1,6 @@
 # Senior Design Project
 
-## [Project Description](https://github.com/trhmc/Senior_design/blob/d2471416a018af71ff0351d469faffd57998eadd/README.md)
+## [Project Description](https://github.com/trhmc/Senior_design/blob/11cb5006204534a7ca1abce67c034b987252d203/project_description.md)
 
 ## Users Stories and Design Diagrams
 * [User Stories](https://github.com/trhmc/Senior_design/blob/06ad5fce8e8cba1706aa08e6be813fb1419921d3/user_stories.md)
