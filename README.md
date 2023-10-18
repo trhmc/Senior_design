@@ -11,7 +11,7 @@
 * [Timeline]()
 * [Effort Matrix]()
 
-## [PPT Slideshow]
+## [PPT Slideshow]()
 
 ## Self-Assessment Essays
 * [Chau Tran](https://github.com/trhmc/Senior_design/blob/65809c05a50d36053bf6158037d1a72b2702f182/essays/tranc2_capstone_assessment.pdf)
