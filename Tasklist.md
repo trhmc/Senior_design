@@ -1,3 +1,4 @@
+# Task list
 1. Investigate and determine a suitable nutrition database for the app - Chau
 2. Research potential front end scheduling framework - Terrance
 3. Pre-process the nutrition database - Chau

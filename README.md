@@ -7,8 +7,8 @@
 * [Design Diagrams](https://github.com/trhmc/Senior_design/blob/639d6974553ca741a3b681b8761111588c2645d3/design/design_diagrams.jpg)
 
 ## Project Tasks and Timeline
-* [Task List]()
-* [Timeline]()
+* [Task List](https://github.com/trhmc/Senior_design/blob/c310c3cd48efbf7eac133e6d605392e23a8f5768/Tasklist.md)
+* [Timeline](https://github.com/trhmc/Senior_design/blob/master/timeline.md)
 * [Effort Matrix]()
 
 ## [PPT Slideshow]()
