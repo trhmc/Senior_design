@@ -1,0 +1,2 @@
+# User Stories
+* As a diet-tracking app user, I want to have a breakdown of each calories count for my plan. I also want layout that is interactive, so that I will be motivated in keeping. I will be able to ask for meal suggestion for the break down of calories.
