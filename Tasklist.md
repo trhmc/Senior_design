@@ -15,5 +15,3 @@
 14. Testing and apply quality assurance protocols for front end - Terrance
 15. Testing and apply quality assurance protocols for back end - Chau
 16. Research the feasibility of implementing a meal suggestion algorithm - Chau
-
-
