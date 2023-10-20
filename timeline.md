@@ -1,5 +1,6 @@
 # Timeline
 | # | Task | Start Date | End Date |
+|:---:|:-----|:----------:|:--------:|
 | 1 | Research nutrition data tracking algorithm | 10/01/2023 | 11/05/2023 |
 | 2 | Investigate Nutrition Database | 10/01/2023 | 10/15/2023 |
 | 3 | Research Front-end Schedule Framework | 10/08/2023 | 10/22/2023 |
