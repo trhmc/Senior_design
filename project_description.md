@@ -26,5 +26,5 @@ Web development, Artificial Intelligence
 ## Approach, Goals and Expectations
 
 ## Resources
-[A Focused Review of Smartphone Diet-Tracking Apps: Usability, Functionality, Coherence With Behavior Change Theory, and Comparative Validity of Nutrient Intake and Energy Estimates](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6543803/)
-[Global Obesity Observatory ranking](https://data.worldobesity.org/rankings/)
+* [A Focused Review of Smartphone Diet-Tracking Apps: Usability, Functionality, Coherence With Behavior Change Theory, and Comparative Validity of Nutrient Intake and Energy Estimates](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6543803/)
+* [Global Obesity Observatory ranking](https://data.worldobesity.org/rankings/)
