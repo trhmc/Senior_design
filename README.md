@@ -8,7 +8,7 @@
 
 ## Project Tasks and Timeline
 * [Task List](https://github.com/trhmc/Senior_design/blob/master/Tasklist.md)
-* [Milestones] (https://github.com/trhmc/Senior_design/blob/master/milestones.md)
+* [Milestones](https://github.com/trhmc/Senior_design/blob/master/milestones.md)
 * [Timeline](https://github.com/trhmc/Senior_design/blob/master/timeline.md)
 * [Effort Matrix]()
 
