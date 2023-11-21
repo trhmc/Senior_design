@@ -12,10 +12,12 @@
 * [Task List](https://github.com/trhmc/Senior_design/blob/master/Tasklist.md)
 * [Milestones](https://github.com/trhmc/Senior_design/blob/master/milestones.md)
 * [Timeline](https://github.com/trhmc/Senior_design/blob/master/timeline.md)
-* [Effort Matrix]()
+* [Effort Matrix](https://github.com/trhmc/Senior_design/blob/master/Effort%20Matrix%20(1).xlsx)
 
 ## [PPT Slideshow](https://docs.google.com/presentation/d/1z2yc3cS5Vx41gh7NpVhYIscbU1QC7fwbWy0-HC4Q4Hc/edit#slide=id.g291a16140f6_0_82)
 * [Video](https://www.youtube.com/watch?v=zKyxEOJSPiQ) 
+
+## [ABET Concerns Essay](https://github.com/trhmc/Senior_design/blob/master/essays/Constraints_Essay.docx)
 
 ## Self-Assessment Essays
 * [Chau Tran](https://github.com/trhmc/Senior_design/blob/master/essays/tranc2_capstone_assessment.pdf)
@@ -26,3 +28,7 @@
 * [Chau Tran](https://github.com/trhmc/Senior_design/blob/master/members_description/chau_tran.md)
 * [Terrance Miller](https://github.com/trhmc/Senior_design/blob/master/members_description/Terrance_Miller.md)
 * [Trung Nguyen](https://github.com/trhmc/Senior_design/blob/master/members_description/trung_nguyen.md)
+
+## Budget
+
+## Appendix
