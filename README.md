@@ -1,10 +1,12 @@
 # Senior Design Project
+# Team BearPaw
 
 ## [Project Description](https://github.com/trhmc/Senior_design/blob/master/project_description.md)
 
 ## Users Stories and Design Diagrams
 * [User Stories](https://github.com/trhmc/Senior_design/blob/master/user_stories.md)
 * [Design Diagrams](https://github.com/trhmc/Senior_design/blob/master/design/design_diagrams.jpg)
+* [Description of Diagrams](https://github.com/trhmc/Senior_design/blob/master/design/design_descriptions.md)
 
 ## Project Tasks and Timeline
 * [Task List](https://github.com/trhmc/Senior_design/blob/master/Tasklist.md)

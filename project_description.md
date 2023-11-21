@@ -24,7 +24,7 @@ Diet-tracking app is becoming a neccessity for many people. However, the hardest
 Web development, Artificial Intelligence
 
 ## Approach, Goals and Expectations
-
+Refer to [milestones document](https://github.com/trhmc/Senior_design/blob/master/milestones.md)
 ## Resources
 * [A Focused Review of Smartphone Diet-Tracking Apps: Usability, Functionality, Coherence With Behavior Change Theory, and Comparative Validity of Nutrient Intake and Energy Estimates](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6543803/)
 * [Global Obesity Observatory ranking](https://data.worldobesity.org/rankings/)
