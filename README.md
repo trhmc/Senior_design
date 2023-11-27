@@ -22,7 +22,7 @@
 ## Self-Assessment Essays
 * [Chau Tran](https://github.com/trhmc/Senior_design/blob/master/essays/tranc2_capstone_assessment.pdf)
 * [Terrance Miller](https://github.com/trhmc/Senior_design/blob/master/essays/Individual_Capstone_Assessment_Terrancemiller.pdf)
-* [Trung Nguyen](https://github.com/trhmc/Senior_design/blob/master/essays/Trung%20Nguyen_Individual%20Capstone%20Assessment.docx)
+* [Trung Nguyen](https://github.com/trhmc/Senior_design/blob/master/essays/Trung%20Nguyen_Individual%20Capstone%20Assessment.pdf)
 
 ## Professional Biographies
 * [Chau Tran](https://github.com/trhmc/Senior_design/blob/master/members_description/chau_tran.md)
