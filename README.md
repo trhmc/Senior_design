@@ -30,5 +30,6 @@
 * [Trung Nguyen](https://github.com/trhmc/Senior_design/blob/master/members_description/trung_nguyen.md)
 
 ## Budget
-
+Since this is a web-based application, we have not spent any money on equipments/hardwares.
 ## Appendix
+* [Meeting Notes](https://github.com/trhmc/Senior_design/blob/master/essays/Team%20BearPaw%20Meeting%20Notes.pdf)
