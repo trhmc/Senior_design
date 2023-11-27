@@ -11,7 +11,7 @@
 | 8 | Develop prototype nutrition data tracking algorithm | 11/05/2023 | 12/17/2023 |
 | 9 | Prototype backend framework | 11/05/2023 | 12/24/2023 |
 | 10 | Implement overall application UI prototype | 11/19/2023 | 12/24/2023 | 
-| 11 | Research feasibility of implementating meal suggestion algorithm | 12/03/2023 | 01/14/2024 |
+| 11 | Research feasibility of implementing meal suggestion algorithm | 12/03/2023 | 01/14/2024 |
 | 12 | Integrating Schedule framework with backend | 12/10/2023 | 01/21/2024 |
 | 13 | Refine nutrition data tracking algorithm and integrate with backend framework | 12/17/2023 | 02/04/2024 |
 | 14 | Enhance UI for customer experience | 01/21/2024 | 02/18/2024 |
