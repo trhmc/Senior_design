@@ -37,4 +37,4 @@ The goal of our health app is to provide diet tracking services through our appl
 Since this is a web-based application, we have not spent any money on equipments/hardwares.
 ## Appendix
 * [Meeting Notes](https://github.com/trhmc/Senior_design/blob/master/essays/Team%20BearPaw%20Meeting%20Notes.pdf)
-* All members spent an average of 12 hours outside of meetings to research and ideate for the project
+* All members spent an average of 15 hours outside of meetings to research and ideate for the project
