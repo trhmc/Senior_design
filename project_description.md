@@ -19,7 +19,6 @@ Diet-tracking app is becoming a neccessity for many people. However, the hardest
 #### Statistics
 - The current state of obesity in United States is 36.47% (2023)
 - There are a total of 325,000 mobile health apps available in major app stores (2017)
-
 ## Topic area
 Web development, Artificial Intelligence
 
