@@ -3,7 +3,8 @@
 ## Project abstract
 The goal of our health app is to provide diet tracking services through our application. This will be accomplished through building a customer friendly UI, utilizing a scheduling framework to help customers track their diet and hold themselves accountable. The key feature of our application is we will provide a meal recommender. We plan to do this utilizing a nutrition database and AI to provide recommendations when requested for the customer. One of the hardest aspects of dieting is finding healthy meals that you would want to eat. This application will allow users to set a goal of whether they want to maintain weight, gain weight, or lose weight and to what extent. This goal should then work hand in hand with our nutrition database and schedule framework to make sure you stay accountable. This way we can help everyone from people just starting their diet, to people who have been maintaining a healthy lifestyle and want to use our services to provide some diversity to their diet. If possible we would also like to add workouts to our recommending and scheduling services, but our primary goal is to get the nutrition database functioning and integrated with our application.
 
-## [Project Description](https://github.com/trhmc/Senior_design/blob/master/project_description.md)
+## Project Description 
+* [Project Description](https://github.com/trhmc/Senior_design/blob/master/project_description.md)
 
 ## Users Stories and Design Diagrams
 * [User Stories](https://github.com/trhmc/Senior_design/blob/master/user_stories.md)
@@ -16,7 +17,8 @@ The goal of our health app is to provide diet tracking services through our appl
 * [Timeline](https://github.com/trhmc/Senior_design/blob/master/timeline.md)
 * [Effort Matrix](https://github.com/trhmc/Senior_design/blob/master/Effort%20Matrix%20(1).xlsx)
 
-## [PPT Slideshow](https://docs.google.com/presentation/d/1z2yc3cS5Vx41gh7NpVhYIscbU1QC7fwbWy0-HC4Q4Hc/edit#slide=id.g291a16140f6_0_82)
+## Presentation
+* [PPT slideshow](https://docs.google.com/presentation/d/1z2yc3cS5Vx41gh7NpVhYIscbU1QC7fwbWy0-HC4Q4Hc/edit#slide=id.g291a16140f6_0_82)
 * [Video](https://www.youtube.com/watch?v=zKyxEOJSPiQ) 
 
 ## [ABET Concerns Essay](https://github.com/trhmc/Senior_design/blob/master/essays/Constraints_Essay.docx)
