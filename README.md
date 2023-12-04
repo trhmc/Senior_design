@@ -5,6 +5,7 @@ The goal of our health app is to provide diet tracking services through our appl
 
 ## Project Description 
 * [Project Description](https://github.com/trhmc/Senior_design/blob/master/project_description.md)
+* [Team Contract](https://github.com/trhmc/Senior_design/blob/master/essays/Team%20Contract.pdf)
 
 ## Users Stories and Design Diagrams
 * [User Stories](https://github.com/trhmc/Senior_design/blob/master/user_stories.md)
